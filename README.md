@@ -16,17 +16,19 @@ I've got **too many PCBs for this project** so it's time to give some away. If y
 
 ### LINKS
 
-Piezo kit (Amazon UK but probably available elsewhere)  
+**Piezo kit** (Amazon UK but probably available elsewhere)  
 [link]
 
+Bare, naked **pizeo sounders** 20 pieces just $1.90 plus 50c shipping (to UK)  
+http://s.click.aliexpress.com/e/FOQY1t60  
+
+**Tiny speakers**, 5 pieces, Ultra-thin 8 Ohm 1W 5CM Speaker Diameter, $2.50 plus 48c shipping (to UK)  
+http://s.click.aliexpress.com/e/44HmSUTA  
+There other tiny speakers though so do look around!
 
 
 
 
-
-
-
-
-Some videos of the Maker Fair Rome 2019  
+Some **videos of the Maker Fair Rome 2019**  
 https://www.youtube.com/watch?v=LrGrLHYrr1o  
 https://www.youtube.com/watch?v=pcU2jHOdI88  
