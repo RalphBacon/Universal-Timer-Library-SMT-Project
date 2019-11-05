@@ -1,8 +1,9 @@
 # Universal Timer Library SMT Project
 An update to the Universal Timer Project with a couple of new libraries and thoughts on 3v working
 
-## See https://www.youtube.com/ralphbacon video #169
-### Direct link to video: https://youtu.be/9xYdxdXmolA
+## See https://www.youtube.com/ralphbacon video #169  
+### Direct link to video: https://youtu.be/9xYdxdXmolA  
+
 
 ## JLCPCB Prototype for $2 & Free SMT assembly: https://jlcpcb.com/
 ### Free coupons for SMT assembly - just pay for the components
@@ -18,6 +19,10 @@ We take a look at a **great Timer library** from Bruno Calou that gives us a sim
 I've got **too many PCBs for this project** so it's time to give some away. If you're up for a bit of SMD soldering ask for the RED board, but I do have pre-assembled boards too - **See the PINNED COMMENT under the video before requesting anything please!**
 
 ## LINKS
+
+### List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon
 
 ### Libraries
 Tim Eckel's toneAC library (not demoed but tried it out, demo soon)  
@@ -43,3 +48,11 @@ http://s.click.aliexpress.com/e/FhyCUcFm
 Some **videos of the Maker Faire Rome 2019**  
 https://www.youtube.com/watch?v=LrGrLHYrr1o  
 https://www.youtube.com/watch?v=pcU2jHOdI88  
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
+
+My channel and blog are here:  
+\------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+\------------------------------------------------------------------
