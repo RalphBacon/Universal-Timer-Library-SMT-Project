@@ -31,6 +31,9 @@ https://bitbucket.org/teckel12/arduino-toneac/wiki/Home
 Bruno Calou's Timer library, as shown in the video, works very well  
 https://github.com/brunocalou/Timer  
 
+All about C++ **lamda expressions** (from C++11)  
+https://en.cppreference.com/w/cpp/language/lambda
+
 ### Products
 Bare, naked **pizeo sounders** 20 pieces just $1.90 plus 50c shipping (to UK)  
 http://s.click.aliexpress.com/e/FOQY1t60  
